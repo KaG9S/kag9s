@@ -9,7 +9,7 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - OpenspaceOS - **future** OS (based on linux) for servers, codebases, and virtual machines.
 - UPM - cool package manager, and main one for OpenspaceOS.
 
-## Contacts
+## Contact
 
 > \[!NOTE]
 > At most, my nickname in socials is KaG9S, but there are excludes. They've listed below as well
@@ -25,11 +25,15 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - [OpenspaceOS project](https://github.com/OpenspaceOS)
 - [Aksol team](https://www.tiktok.com/@aksolteam)
 
-*Games i am playing*
-- Geometry dash (name - KaG10S)
-- Minecraft
-- R#blox
+### Langs that i learn
+- PYTHON
+- HTML/CSS/JS
+- C/C++ (LOW)
+
+### My main OS
+- Arch Linux (HP ProB0ok 6360b)
+- DietPi (Linux dist.) (PaspberryPi 3B+)
+- Android (Samsung Galaxy A15)
 
 # end
-
 why did u read this shii
