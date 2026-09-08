@@ -1,4 +1,4 @@
-# README for KaG9S
+# README for KaG9S <img src="./arbuz_v_kepke.jpg" width=50>
 
 Well dis fakas file is created as a readme file for [my profile on github](https://github.com/KaG9S).
 
@@ -14,8 +14,7 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 > \[!NOTE]
 > At most, my nickname in socials is KaG9S, but there are excludes. They've listed below as well
 
-- [Telegram](https://t.me/KaG9S)
-- [Telegram twin](https://t.me/KaG10S) and [bio](https://t.me/sudo_opsec)
+- [Telegram](https://t.me/KaG9S) and [tg changel](https://t.me/sudo_opsec)
 - gmail - kkntevest@gmail.com
 - Discord - KaG9S
 - [TikTok](https://www.tiktok.com/@kag9s)
@@ -32,8 +31,9 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 
 ### My main OS
 - Arch Linux (HP ProB0ok 6360b)
-- DietPi (Linux dist.) (PaspberryPi 3B+)
+- RasbPi (Linux dist.) (PaspberryPi 3B+)
 - Android (Samsung Galaxy A15)
 
+---
 # end
 why did u read this shii
