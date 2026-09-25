@@ -8,6 +8,7 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - nmbrz-gui - calculator with nmbrz as base
 - OpenspaceOS - **future** OS (based on linux) for servers, codebases, and virtual machines.
 - UPM - cool package manager, and main one for OpenspaceOS.
+- psich_bot - template project for telegram bot. read readme for more
 
 ## Contact
 
@@ -30,9 +31,9 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - C/C++ (LOW)
 
 ### My main OS
-- Arch Linux (HP ProB0ok 6360b)
-- RasbPi (Linux dist.) (PaspberryPi 3B+)
-- Android (Samsung Galaxy A15)
+- Arch Linux (HP ProBook 6360b)
+- Rasberry Pi Os Lite (Linux dist.) (PaspberryPi 3B+)
+- Android (OneUI) (Samsung Galaxy A15)
 
 ---
 # end
