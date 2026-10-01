@@ -9,7 +9,7 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - [OpenspaceOS](https://github.com/OpenspaceOS) - **future** OS (based on linux) for servers, codebases, and virtual machines.
 - [UPM](https://github.com/OpenspaceOS/upm) - cool package manager, and main one for OpenspaceOS.
 - [psich_bot](https://github.com/KaG9S/psich_bot) - template project for telegram bot. [README](https://github.com/KaG9S/psich_bot/blob/main/README.md) for more
-- [Last floor](https://t.me/lastfloor_official) - future game on roblox
+- [Last floor](https://t.me/lastfloor_offical) - **future** game on roblox
 
 ## Contact
 
@@ -27,9 +27,10 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - [Aksol team](https://www.tiktok.com/@aksolteam)
 
 ### Langs that i learn
-- PYTHON
+- Python
+- Lua
 - HTML/CSS/JS
-- C/C++ (LOW)
+- C/C++ (Low)
 
 ### My main OS
 - [Tiny10](https://archive.org/details/tiny-10-23-h2) (iMac 8.1 A1224)
