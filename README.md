@@ -9,6 +9,7 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - [OpenspaceOS](https://github.com/OpenspaceOS) - **future** OS (based on linux) for servers, codebases, and virtual machines.
 - [UPM](https://github.com/OpenspaceOS/upm) - cool package manager, and main one for OpenspaceOS.
 - [psich_bot](https://github.com/KaG9S/psich_bot) - template project for telegram bot. read readme for more
+- [Last floor](https://t.me/lastfloor_official) - future game on roblox
 
 ## Contact
 
@@ -31,7 +32,6 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 - C/C++ (LOW)
 
 ### My main OS
-- [Arch Linux](https://archlinux.org) (HP ProBook 6360b)
 - [Rasberry Pi Os](https://www.raspberrypi.com/software/operating-systems/) Lite (Linux dist.) (PaspberryPi 3B+)
 - Android ([OneUI](https://www.samsung.com/uk/one-ui/)) (Samsung Galaxy A15)
 
