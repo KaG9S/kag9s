@@ -1,6 +1,7 @@
 # README for KaG9S <img src="./arbuz_v_kepke.jpg" width=50>
 
-Well dis fakas file is created as a readme file for [my profile on github](https://github.com/KaG9S).
+Hello! My nickname is KaG9S, but you cam call me jral, kages, george, and so on.
+Here's some info about me.
 
 ## My works (on github or not)
 
@@ -14,10 +15,10 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 ## Contact
 
 > \[!NOTE]
-> At most, my nickname in socials is KaG9S, but there are excludes. They've listed below as well
+> At most, my nickname in socials is also KaG9S, but there are excludes. They've listed below as well
 
 - [Telegram](https://t.me/KaG9S) and [tg bio](https://t.me/sudo_opsec)
-- gmail - kkntevest@gmail.com
+- gmail - jokageorgik@gmail.com and kkntevest@gmail.com
 - Discord - KaG9S
 - [TikTok](https://www.tiktok.com/@kag9s)
 
@@ -25,18 +26,20 @@ Well dis fakas file is created as a readme file for [my profile on github](https
 
 - [OpenspaceOS project](https://github.com/OpenspaceOS)
 - [Aksol team](https://www.tiktok.com/@aksolteam)
+- LastFloor (private at this moment)
 
 ### Langs that i learn
-- Python
-- Lua
+- Python/Lua
 - HTML/CSS/JS
 - C/C++ (Low)
 
 ### My main OS
 - [Tiny10](https://archive.org/details/tiny-10-23-h2) (iMac 8.1 A1224)
+- Windows10 (Acer E5-576 and HP Probook 6360b)
 - [Rasberry Pi Os](https://www.raspberrypi.com/software/operating-systems/) Lite (Linux dist.) (PaspberryPi 3B+)
 - Android ([OneUI](https://www.samsung.com/uk/one-ui/)) (Samsung Galaxy A15)
 
 ---
 # end
-why did u read this shii
+Contact me if you want!
+>.<
