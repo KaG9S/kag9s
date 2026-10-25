@@ -6,9 +6,9 @@ Here's some info about me.
 ## My works (on github or not)
 
 - [nmbrz](https://github.com/KaG9S/nmbrz) - more accurate calculations for python. also breaking python limits
-- [nmbrz-gui](https://github.com/KaG9S/nmbrz-gui) - calculator with nmbrz as base
-- [OpenspaceOS](https://github.com/OpenspaceOS) - **future** OS (based on linux) for servers, codebases, and virtual machines.
-- [UPM](https://github.com/OpenspaceOS/upm) - cool package manager, and main one for OpenspaceOS.
+~~- [nmbrz-gui](https://github.com/KaG9S/nmbrz-gui) - calculator with nmbrz as base~~
+~~- [OpenspaceOS](https://github.com/OpenspaceOS) - **future** OS (based on linux) for servers, codebases, and virtual machines.~~
+~~- [UPM](https://github.com/OpenspaceOS/upm) - cool package manager, and main one for OpenspaceOS.~~
 - [psich_bot](https://github.com/KaG9S/psich_bot) - template project for telegram bot. [README](https://github.com/KaG9S/psich_bot/blob/main/README.md) for more
 - [Last floor](https://t.me/lastfloor_offical) - **future** game on roblox
 
