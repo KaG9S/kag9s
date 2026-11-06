@@ -8,9 +8,9 @@ Here's some info about me.
 - [nmbrz](https://github.com/KaG9S/nmbrz) - more accurate calculations for python. also breaking python limits
 ~~- [nmbrz-gui](https://github.com/KaG9S/nmbrz-gui) - calculator with nmbrz as base~~
 ~~- [OpenspaceOS](https://github.com/OpenspaceOS) - **future** OS (based on linux) for servers, codebases, and virtual machines.~~
-~~- [UPM](https://github.com/OpenspaceOS/upm) - cool package manager, and main one for OpenspaceOS.~~
+~~- [UPM](https://github.com/OpenspaceOS/upm) - cool package manager, and main one for OpenspaceOS. Breaking every philosophy~~
 - [psich_bot](https://github.com/KaG9S/psich_bot) - template project for telegram bot. [README](https://github.com/KaG9S/psich_bot/blob/main/README.md) for more
-- [Last floor](https://t.me/lastfloor_offical) - **future** game on roblox
+- [Last floor](https://t.me/lastfloor_offical) - **future** indie game on roblox
 
 ## Contact
 
@@ -26,7 +26,7 @@ Here's some info about me.
 
 - [OpenspaceOS project](https://github.com/OpenspaceOS)
 - [Aksol team](https://www.tiktok.com/@aksolteam)
-- LastFloor (private at this moment)
+- [LastFloor](https://t.me/LastFloor_Official)
 
 ### Langs that i learn
 - Python/Lua
