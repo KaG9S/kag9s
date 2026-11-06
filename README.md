@@ -42,4 +42,15 @@ Here's some info about me.
 ---
 # end
 Contact me if you want!
+```
 >.<
+```
+
+Also i often put my signature, so if you'll see this, that's me:
+```python
+# Made
+#
+#  by
+#
+# KaG9S
+```
